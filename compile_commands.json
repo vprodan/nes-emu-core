@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/nes-emu-core",
+  "command": "/usr/bin/c++  -I/workspaces/nes-emu-core/src -std=gnu++23 -o CMakeFiles/NesEmulationCore.dir/src/main.cpp.o -c /workspaces/nes-emu-core/src/main.cpp",
+  "file": "/workspaces/nes-emu-core/src/main.cpp"
+}
+]
